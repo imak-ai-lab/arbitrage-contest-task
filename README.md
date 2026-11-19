@@ -13,6 +13,11 @@
 В репозитории находятся программа локальной оценки (`spot_contest`), примеры
 стратегий и инструкции.
 
+По техническим и организационным вопросам можно создать
+[issue в GitHub](https://github.com/imak-ai-lab/arbitrage-contest-task/issues)
+или открыть тему в разделе **Forum** на
+[странице соревнования в CodaBench](https://www.codabench.org/competitions/18505/).
+
 Parquet-файлы, manifest и конфиг находятся в разделе **Files** на CodaBench.
 [Файлы соревнования](https://www.codabench.org/competitions/18505/),
 [правила теста](docs/real-data-test.md).
